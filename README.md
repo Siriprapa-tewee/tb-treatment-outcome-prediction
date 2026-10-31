@@ -106,14 +106,9 @@ The following results are taken from the Notebook's model comparison on the test
 tb-treatment-outcome-prediction/
 ├── README.md
 ├── notebooks/
-│   └── TB_Classification.ipynb
-├── presentation/
-│   └── presentation.pdf
-└── docs/
-    └── abstract.pdf
-```
+    └── TB_Classification.ipynb
 
-*The structure above describes the intended organization. Only files that are actually uploaded and approved for public release should be included.*
+```
 
 ## Research Achievement
 
